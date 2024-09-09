@@ -28,7 +28,7 @@ pip install numpy matplotlib
 1. Clonez ce dépôt :
 
 ```bash
-git clone https://github.com/Ghost-aft/HarmonicTidesSimulator.git
+git clone https://github.com/TheGhostMoon/HarmonicTidesSimulator.git
 cd HarmonicTidesSimulator
 ```
 2. Exécutez le script Python :
